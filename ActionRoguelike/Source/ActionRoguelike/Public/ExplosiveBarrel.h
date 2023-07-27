@@ -32,4 +32,7 @@ public:
 	UPROPERTY(EditAnywhere)
 	UStaticMeshComponent* barrel;
 
+	UPROPERTY(EditAnywhere)
+		float ExplosionRadius;
+
 };
